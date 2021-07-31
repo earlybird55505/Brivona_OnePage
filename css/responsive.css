@@ -1,0 +1,337 @@
+/*XL Device :1200px */
+@media (min-width: 1450px) and (max-width: 1600px){
+
+
+
+}
+@media (min-width: 1200px) and (max-width: 1449px){
+	
+
+
+
+}
+
+/*LG Device :992px */
+@media (min-width: 992px) and (max-width: 1199px){
+    
+        .header-top-left span {
+                font-size: 11px;
+        }
+
+        .navbar {
+                padding: 20px 0px;
+        }
+
+        .home-services p {
+                padding-right: 410px;
+        }
+
+        .about-left {
+                padding-top: 528px;
+        }
+
+        .blog-item-right h3 a {
+                font-size: 19px;
+        }
+
+        .blog .comment-author {
+                font-size: 10px;
+        }
+        
+        .blog-item-right p {
+                font-size: 12px;
+        }
+
+        .footer-about li {
+                padding-bottom: 12px;
+        }
+
+        .news-content h5 a {
+                font-size: 11px;
+        }
+
+        .footer-services-item {
+                display: inline-block;
+        }
+
+        ul.services-single {
+                margin-bottom: -4px;
+        }
+
+        form input {
+                width: 70%;
+        }
+}
+        
+/*MD Device :768px */
+@media (min-width: 768px) and (max-width: 991px){
+
+        .header-top {
+                display: none;
+        }
+
+        .home-category {
+                display: none;
+        }
+
+        .home-services p {
+                font-size: 16px;
+                line-height: 25px;
+                padding-right: 200px;
+        }
+
+        .about::before {
+                height: 53%;
+                width: 40%;
+        }
+
+        .about-right {
+                padding-top: 100px;
+        }
+
+        .about-right .title {
+                text-align: center;
+        }
+
+        .about-left {
+                width: 75%;
+        }
+
+        .service .title p {
+                padding: 0px 118px;
+        }
+
+        .service-content p {
+                font-size: 12px;
+                line-height: 19px;
+        }
+
+        .appointment h6 {
+                font-size: 22px;
+        }
+
+        .appointment h2 {
+                font-size: 35px;
+        }
+
+        .appointment h4 {
+                font-size: 24px;
+        }
+
+        .team .title p {
+                padding: 10px 145px 10px 0px;
+        }
+
+        .team-content h3 a {
+                font-size: 17px;
+        }
+
+        .team-content span {
+                font-size: 11px;
+        }
+
+        .apt-details {
+                padding: 0px 23px;
+                height: 440px;
+        }
+
+        .contact-img {
+                height: 440px;
+        }
+
+        .provide-img {
+                padding-top: 50px;
+                text-align: center;
+        }
+
+        .award-single h2 {
+                font-size: 50px;
+        }
+
+        .award-single i {
+                font-size: 35px;
+        }
+
+        .award-single span {
+                font-size: 15px;
+        }
+
+        .blog .title-right .view {
+                font-size: 12px;
+                padding: 15px 27px;
+        }
+
+        .help-line .contact {
+                padding-bottom: 15px;
+        }
+
+
+
+}
+
+/*Extra Small Device */
+@media (max-width: 767px){
+
+        .header-top {
+                display: none;
+        }
+
+        .home-category {
+                display: none;
+        }
+
+        .home::after {
+                width: 100%;
+        }
+
+        .overlay::before {
+                height: 19%;
+                top: 190px;
+                background: #e61010de;
+        }
+
+        .home-services h6 {
+                font-size: 13px;
+        }
+
+        .home-services h1 {
+                font-size: 45px;
+        }
+
+        .home-services p {
+                font-size: 14px;
+                padding-right: 86px;
+        }
+
+        .dr-appointment::before {
+                top: -10px;
+                left: -61px;
+        }
+
+        .dr-appointment {
+                float: left;
+                text-align: left;
+                top: 50px;
+                left: 65px;
+        }
+
+        .about::before {
+                height: 50%;
+                width: 45%;
+        }
+
+        .about-right .title {
+                padding-top: 138px;
+        }
+
+        .title h2 {
+                font-size: 28px;
+        }
+
+        .title p {
+                font-size: 13px;
+                line-height: 23px;
+        }
+
+        .title h6 {
+                font-size: 12px;
+        }
+
+        .about-right-list li {
+                font-size: 12px;
+                display: block;
+        }
+
+        .about-right-list {
+                display: block;
+        }
+
+        .abr-list-1 {
+                margin-bottom: 0;
+        }
+
+        .service .title p {
+                padding: 0px 59px;
+        }
+
+        .team .title p {
+                padding: 10px 50px 10px 0px;
+        }
+
+        .team .col-6:nth-child(3) {
+                display: none;
+        }
+        
+        .team .col-6:nth-child(4) {
+                display: none;
+        }
+
+        .team-content h3 a {
+                font-size: 14px;
+        }
+
+        .team-content span {
+                font-size: 11px;
+            
+        }
+
+        .testimonial-content p {
+                padding: 0px 40px;
+        }
+
+        .apt-details {
+                height: 100%;
+
+        }
+
+        .apt-details .form-group {
+                width: 100%;
+        }
+
+        .provide-img {
+                padding-top: 35px;
+        }
+
+        .award-single {
+                padding: 25px 0px;
+                margin: 25px 0px;
+        }
+
+        .brnone1 {
+                border-right: 1px solid transparent;
+        }
+
+        .blog .title-right {
+                float: left;
+        }
+
+        .blog-item {
+                display: inline-block;
+        }
+
+        .blog-item-left {
+                padding: 275px 199px 40px 40px;
+        }
+
+        .blog .title-part {
+                padding-bottom: 25px;
+        }
+
+        form input {
+                width: 75%;
+        }
+
+        .footer-links li a, .footer-services li a {
+                font-size: 14px;
+        }
+
+
+            
+}
+
+/*SM Small Device :550px */
+@media (min-width: 576px) and (max-width: 767px){
+
+        
+
+}
